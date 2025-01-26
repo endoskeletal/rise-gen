@@ -1,1 +1,0 @@
-Put the vae checkpoint here
